@@ -1,6 +1,6 @@
 # Assignment 1
 ## Team Members
-//-- place table as shown in main readme.md file --//
+|k21-4542|Gulzar|
 ## Output Screenshots
 //-- Add output screenshots here. --//
 ## Results and Analysis
